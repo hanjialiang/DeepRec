@@ -1,6 +1,6 @@
 # DeepRec
 
-This repository contains code for the paper **DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce**.
+This repository contains code for the paper [**DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce**](https://dl.acm.org/doi/10.1145/3442381.3449942).
 
 If you find this code useful, please cite our work:
 
