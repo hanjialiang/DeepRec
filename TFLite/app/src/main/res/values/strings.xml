@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TFLite GRU Demo</string>
+    <string name="train_button_text">Train</string>
+    <string name="infer_button_text">Infer</string>
+    <string name="save_button_text">Save</string>
+    <string name="load_button_text">Load</string>
+    <string name="eval_button_text">Evaluation</string>
+</resources>

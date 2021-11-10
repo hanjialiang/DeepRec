@@ -27,6 +27,12 @@ First, we train a Gated Recurrent Unit (GRU) based recommendation model, i.e. th
 
 [Distiller](https://intellabs.github.io/distiller/)
 
-[TensorFlow.js](https://www.tensorflow.org/js)
+[TFLite](https://www.tensorflow.org/lite)
+
+[IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
+~~[TensorFlow.js](https://www.tensorflow.org/js)~~
 
 numpy, pandas, ipdb
+
+*Note that TensorFlow Lite has supported on-device training, therefore, we have changed the implementation of on-device training from tfjs to tflite, for better performance and less overhead.*
