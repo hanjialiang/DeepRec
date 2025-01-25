@@ -5,11 +5,18 @@ This repository contains code for the paper [**DeepRec: On-device Deep Learning 
 If you find this code useful, please cite our work:
 
 ```latex
-@inproceedings{han2021deeprec,
-  title={DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce},
-  author={Han, Jialiang and Ma, Yun and Mei, Qiaozhu and Liu, Xuanzhe},
-  booktitle={Proceedings of the Web Conference 2021 (WWW '21), April 19--23, 2021, Ljubljana, Slovenia},
-  year={2021}
+@inproceedings{DBLP:conf/www/Han0ML21,
+  author       = {Jialiang Han and
+                  Yun Ma and
+                  Qiaozhu Mei and
+                  Xuanzhe Liu},
+  title        = {DeepRec: On-device Deep Learning for Privacy-Preserving Sequential
+                  Recommendation in Mobile Commerce},
+  booktitle    = {{WWW} '21: The Web Conference 2021, Virtual Event / Ljubljana, Slovenia,
+                  April 19-23, 2021},
+  pages        = {900--911},
+  publisher    = {{ACM} / {IW3C2}},
+  year         = {2021}
 }
 ```
 
