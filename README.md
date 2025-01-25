@@ -16,7 +16,7 @@ If you find this code useful, please cite our work:
                   April 19-23, 2021},
   pages        = {900--911},
   publisher    = {{ACM} / {IW3C2}},
-  year         = {2021},
+  year         = {2021}
 }
 ```
 
@@ -28,7 +28,7 @@ First, we train a Gated Recurrent Unit (GRU) based recommendation model, i.e. th
 
 ## Dataset and Requirements
 
-[UserBehavior](https://tianchi.aliyun.com/dataset/dataDetail?dataId=649])
+[UserBehavior](https://tianchi.aliyun.com/dataset/dataDetail?dataId=649)
 
 [Pytorch](https://pytorch.org/)
 
