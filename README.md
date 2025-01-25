@@ -16,11 +16,11 @@ If you find this code useful, please cite our work:
                   April 19-23, 2021},
   pages        = {900--911},
   publisher    = {{ACM} / {IW3C2}},
-  year         = {2021}
+  year         = {2021},
 }
 ```
 
-## DeepRec
+## Workflow Overview
 
 ![Approach](https://github.com/hanjialiang/DeepRec/blob/main/Approach.png)
 
